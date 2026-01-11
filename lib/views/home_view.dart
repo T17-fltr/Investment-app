@@ -5,6 +5,8 @@ import 'package:investment_app/widgets/action_buttons.dart';
 import 'package:investment_app/widgets/investments.dart';
 import 'package:investment_app/widgets/navigations.dart';
 import 'package:investment_app/widgets/portfolio.dart';
+import 'package:investment_app/models/data_bindings.dart';
+
 
 class HomeView extends StatelessWidget {
   const HomeView({super.key});
